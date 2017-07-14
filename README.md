@@ -3,7 +3,7 @@
 
 Para este codigo se utilizo: js, html y css basado en el ejercicio realizado en la anterior sesion
 
-![Imagen 1](assets/pictures/ejercicio_1.png)
+![Imagen 1](https://github.com/MariaP92/lista-frutas/blob/master/assets/pictures/ejercicio_1.PNG)
 
 El programa final es el siguiente: 
 
