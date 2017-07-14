@@ -25,8 +25,7 @@ function mergeHTML (){
 
 function printHTML (html){
   records.innerHTML = '';
-  records.innerHTML = html;  //variable mal escrita htm
-}
+  records.innerHTML = html;  
 
 var addCompra = document.getElementById('nuevacompra');
 
@@ -41,9 +40,4 @@ addCompra.onclick = function() {
   printHTML(mergeHTML());
 };
 
-
-// al hacerle click a mostrar todas las compras, imprime todas las compras en el html. ESTA ESTÁ BUENA, NO CAMBIAR NADA
-/*var printAll = document.getElementById('print');
-printAll.onclick = function() {
-  printHTML(mergeHTML());
-}*/
+}
