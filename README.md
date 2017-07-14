@@ -3,7 +3,7 @@
 
 Para este codigo se utilizo: js, html y css basado en el ejercicio realizado en la anterior sesion
 
-![Imagen 1](ejercicio_1.png)
+![Alt-text](images/ejercicio_1.png)
 
 El programa final es el siguiente: 
 
