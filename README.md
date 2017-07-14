@@ -3,13 +3,11 @@
 
 Para este codigo se utilizo: js, html y css basado en el ejercicio realizado en la anterior sesion
 
-![Imagen 1][1]
-[1]:images/ejercicio_1.png
+![Imagen 1](images/ejercicio_1.png)
 
 El programa final es el siguiente: 
 
-![Imagen 2][2]
-[2]: images/ejercicio_2.png
+![Imagen 2](images/ejercicio_2.png)
 
 Para realizar este código se uso 3 archivos
 
@@ -31,7 +29,7 @@ Finalmente para el funcionamiento del programa se reutilizo varias funciones del
 * Eliminar el botón de mostrar todo lo ingresado
 * Cambiar la salida div por la lista
 
-![Imagen 5](obtenerdatos.jpg)
+![Imagen 5](images/obtenerdatos.jpg)
 
 * Cambiar el input, borrar los prompt y cambiar el ingreso desde la caja de texto
 
