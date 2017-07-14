@@ -3,11 +3,11 @@
 
 Para este codigo se utilizo: js, html y css basado en el ejercicio realizado en la anterior sesion
 
-![Imagen 1](images/ejercicio_1.png)
+![Imagen 1](pictures/ejercicio_1.png)
 
 El programa final es el siguiente: 
 
-![Imagen 2](images/ejercicio_2.png)
+![Imagen 2](pictures/ejercicio_2.png)
 
 Para realizar este código se uso 3 archivos
 
@@ -16,11 +16,11 @@ Para realizar este código se uso 3 archivos
 **html**
 primero el título junto a una imagen descargada de internet, para que el ejemplo sea parecido al mostrado en el capitan. el código es el siguiente
 
-![Imagen 3](images/parra.png)
+![Imagen 3](pictures/parra.png)
 
 Luego se creo una caja de texto y un boton para ingresar los datos, para la salida utilze una lista donde se mostrará los datos que se va ingresando.
 
-![Imagen 4](images/input-output.png)
+![Imagen 4](pictures/input-output.png)
 
 
 **js** 
@@ -29,8 +29,8 @@ Finalmente para el funcionamiento del programa se reutilizo varias funciones del
 * Eliminar el botón de mostrar todo lo ingresado
 * Cambiar la salida div por la lista
 
-![Imagen 5](images/obtenerdatos.jpg)
+![Imagen 5](pictures/obtenerdatos.jpg)
 
 * Cambiar el input, borrar los prompt y cambiar el ingreso desde la caja de texto
 
-![Imagen 6](images/input.jpg)
+![Imagen 6](pictures/input.jpg)
